@@ -35,11 +35,12 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  font-style: italic;
+  background-color: #fff
 }
 
 li{
   font-weight:bold;
+  list-style-type:square;
 }
-#dolt{
-  font-style: italic;
-}
+

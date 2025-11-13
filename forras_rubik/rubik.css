@@ -23,6 +23,7 @@ h2{
 p{
   text-align: justify;
   color: #443502;
+  margin: 5px;
 }
 
 
@@ -38,4 +39,7 @@ p{
 
 li{
   font-weight:bold;
+}
+#dolt{
+  font-style: italic;
 }

@@ -4,6 +4,7 @@ body{
   background-repeat: repeat-y;
   background-position: right top;
   padding: 15px 95px 15px 15px;
+  background-image: url("../forras_rubik/hatterkocka.png");
 }
 
 #cimkep{
@@ -12,10 +13,12 @@ body{
 
 h1{
   margin: 40px 0px 100px 175px;
+  color: #443502;
 }
 
 p{
   text-align: justify;
+  color: #443502;
 }
 
 

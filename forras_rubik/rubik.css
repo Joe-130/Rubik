@@ -8,11 +8,15 @@ body{
 }
 
 #cimkep{
-  float:left;  
+  float:left; 
+  height: 150px; 
 }
 
 h1{
   margin: 40px 0px 100px 175px;
+  color: #443502;
+}
+h2{
   color: #443502;
 }
 
